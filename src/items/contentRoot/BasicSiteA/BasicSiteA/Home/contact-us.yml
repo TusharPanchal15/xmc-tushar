@@ -8,6 +8,22 @@ SharedFields:
   Hint: __Thumbnail
   Value: |
     <image mediaid="{085C7333-D8D7-4C20-8DA5-1D959E2EAB2D}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{16CE5947-99C3-4096-84E3-35D5B25DD181}"
+          s:ds="{DA3D8354-1F51-440C-9FDB-46B10D990847}"
+          s:id="{96A1F847-0973-4007-BE4D-F47A070F8BC2}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -24,7 +40,14 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{16CE5947-99C3-4096-84E3-35D5B25DD181}"
+              s:par="GridParameters=&amp;FieldNames=&amp;Styles=&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=2">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
               uid="{EE4F5056-0E80-4EB3-8C30-CF7DCA3F1CF3}"
+              p:after="*[1=2]"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
               s:par="ComponentName=Hero&amp;ComponentConfiguration=&amp;LibraryId=4N3aUxl3A4Mjj8zABuuJl5&amp;ComponentId=33oEtvuShR&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=instance-0.952966484819374&amp;ComponentDataOverride=&amp;ComponentHTMLOverride=&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames=&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
@@ -38,7 +61,7 @@ Languages:
       Value: "contact-us"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "45d75df3-1dd0-440a-8423-2cd570d58aef"
+      Value: "181ea096-dcc4-4ae3-a9f5-7d345eb96bcf"
     - ID: "a126436a-d005-492a-8d71-5dd128b749f4"
       Hint: Title
       Value: "contact-us"
@@ -48,4 +71,4 @@ Languages:
         sitecore\tpanchal@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230515T063559Z
+      Value: 20230515T100936Z
