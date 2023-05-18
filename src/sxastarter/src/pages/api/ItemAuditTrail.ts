@@ -1,4 +1,4 @@
- import { SendEmail } from 'lib/mail-smtp';
+import { SendEmail } from 'lib/mail-smtp';
 import type { NextApiRequest, NextApiResponse } from 'next';
 const webHookReqRes = async (
   _req: NextApiRequest,
