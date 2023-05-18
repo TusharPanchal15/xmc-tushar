@@ -35,21 +35,22 @@ import {
     };
   };
 
-  const PromoList = (props: BlogListProps): JSX.Element => {
+  const BlogsListGQL = (props: BlogListProps): JSX.Element => {
     // Fail out if fields aren't present
     if (props.fields === null || props.fields === undefined) return <></>;
   
     return (
       <div className="flex flex-wrap container mx-auto">
-        {props?.fields?.Blogs?.map((val, i) => {
+        {/* {props?.fields?.Blogs?.map((val, i) => {
           return <>
           <div className='flex flex-wrap col-md-6'>
           <Default params={props?.params} fields={val?.fields} key={i} />
           </div>
           </>;
-        })}
+        })} */}
+        <h1>Blog List</h1>
       </div>
     );
   };
   
-  export default PromoList;
+  export default BlogsListGQL;

@@ -1,0 +1,54 @@
+﻿---
+ID: "a45207f1-6dd0-48eb-8f1a-4e748be071bd"
+Parent: "b32f3cd8-e5a5-4862-97c2-2ae9ab485f45"
+Template: "4b6d534a-3bc2-49db-8781-9da3317bfdd0"
+Path: "/sitecore/content/BasicSiteA/BasicSiteA/Home/404-Error"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0369275B-0EFC-421D-93F7-54CC5ADF9C2C}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A9EF0A56-D106-4F26-B9E6-D007ED904D1D}"
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T052251Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "404-Error"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0839164-a2d9-4675-a119-5d4afc52117c"
+    - ID: "a126436a-d005-492a-8d71-5dd128b749f4"
+      Hint: Title
+      Value: Error Page
+    - ID: "b4d4cff2-e95a-4ef9-8d07-ae0311c250e2"
+      Hint: Content
+      Value: <h1>Page not found</h1>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T060024Z

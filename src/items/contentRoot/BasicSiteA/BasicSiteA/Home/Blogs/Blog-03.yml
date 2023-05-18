@@ -1,0 +1,45 @@
+﻿---
+ID: "15125219-f0a0-4283-b7ef-7c4edc0a8cb8"
+Parent: "02fdb09e-5796-4022-80f7-5709563aaaeb"
+Template: "de3ff07c-ed5f-4c05-92da-942f40cc7173"
+Path: "/sitecore/content/BasicSiteA/BasicSiteA/Home/Blogs/Blog-03"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0806AB28-7860-4135-9238-AF746C772D47}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T111342Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog 01
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d2bc502-d866-48bf-a5c3-c46af01bc9f7"
+    - ID: "a126436a-d005-492a-8d71-5dd128b749f4"
+      Hint: Title
+      Value: "sunt aut facere repellat provident occaecati excepturi optio reprehenderit - Blog-003"
+    - ID: "b4d4cff2-e95a-4ef9-8d07-ae0311c250e2"
+      Hint: Content
+      Value: |
+        <p><span style="color: #0b7500; background-color: #ffffff;">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</span></p>
+        <p><span style="color: #0b7500; background-color: #ffffff; color: #0b7500; background-color: #ffffff;">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</span></p>
+        <p><span style="color: #0b7500; background-color: #ffffff;">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</span></p>
+        <p><span style="color: #0b7500; background-color: #ffffff;">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "c6cb2949-d7e4-431a-ac75-c124959758fc"
+      Hint: Image
+      Value: |
+        <image mediaid="{7DC4262C-8DF4-4A34-9D65-ACD13F695168}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T090744Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "c42e6f92-bf34-49df-8466-61346abc8e4d"
+Parent: "93eef60e-2cda-4a53-983a-a33c8782d254"
+Template: "736168ec-80af-4f66-8328-2303bfff1823"
+Path: /sitecore/content/BasicSiteA/BasicSiteA/Data/Promo List Folder/Promo List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T181640Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "654368fa-d888-47af-b715-6347338eb9cb"
+      Hint: PromoCards
+      Value: |
+        {9F0CFA9C-6829-4F84-ADA1-08EBCC0C6CAF}
+        {DA3D8354-1F51-440C-9FDB-46B10D990847}
+        {2892093B-365F-4A92-8949-F687450C1536}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e6a96c0-ce82-4c69-a1e3-89138637afbc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T182439Z
