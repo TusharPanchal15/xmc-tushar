@@ -27,6 +27,16 @@
                 "name": "Renderings",
                 "path": "/sitecore/layout/Renderings/Project/BasicSiteA",
                 "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "Custom Templates",
+                "path": "/sitecore/templates/Feature/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "Custom Renderings",
+                "path": "/sitecore/layout/Renderings/Feature/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
             }
         ]
     }

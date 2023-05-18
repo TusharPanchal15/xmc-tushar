@@ -12,6 +12,9 @@ SharedFields:
     {2492BAC4-DA07-4C86-87F0-9873D40E2276}
     {9C6D53E3-FE57-4638-AF7B-6D68304C7A94}
     {3836D951-BB14-43AC-9231-649B7F245DC5}
+    {A93A9B21-6935-4EF3-A261-6E96DE0B062F}
+    {1215AF61-3C8C-48CE-AFEE-43902A289A1F}
+    {FF82356C-0008-4A2B-AA96-3EF9BEB69EF5}
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{EDD5B21F-2BD2-4290-81A2-68428363D312}"
@@ -33,11 +36,11 @@ Languages:
         sitecore\tpanchal@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "da280762-ab6d-4793-b704-1f9af0d89a92"
+      Value: "93607453-52df-40ba-9082-8d9c7a3a34f8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\tpanchal@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230515T060808Z
+      Value: 20230518T072549Z

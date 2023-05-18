@@ -1,0 +1,33 @@
+﻿---
+ID: "0227dfed-37b7-4316-bd74-64a2a9375c9d"
+Parent: "7339bfba-5045-45c9-95a0-73427fe277f3"
+Template: "7339bfba-5045-45c9-95a0-73427fe277f3"
+Path: /sitecore/templates/Feature/BasicSiteA/Custom/Promo List Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {736168EC-80AF-4F66-8328-2303BFFF1823}
+    {7339BFBA-5045-45C9-95A0-73427FE277F3}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0de6649-08df-4329-a2cd-1d51c12ee53f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T104403Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "af4d402c-09cd-4a2c-a7ac-8af404184a02"
+Parent: "ef94ffef-b857-4c4e-8134-6d16a27e7a28"
+Template: "ef94ffef-b857-4c4e-8134-6d16a27e7a28"
+Path: /sitecore/templates/Feature/BasicSiteA/Custom/Blogs List Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {66DDA1BF-D316-424C-BEA3-A3B8C321B19D}
+    {EF94FFEF-B857-4C4E-8134-6D16A27E7A28}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a7c6067-9f6f-44e1-89b0-d4bd401511a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T185752Z
