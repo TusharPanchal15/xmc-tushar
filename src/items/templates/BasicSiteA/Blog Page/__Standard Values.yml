@@ -1,0 +1,42 @@
+﻿---
+ID: "ba0831ab-71ff-42ca-90d3-9984d270fa6a"
+Parent: "de3ff07c-ed5f-4c05-92da-942f40cc7173"
+Template: "de3ff07c-ed5f-4c05-92da-942f40cc7173"
+Path: /sitecore/templates/Project/BasicSiteA/Blog Page/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          par="GridParameters&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          ph="/headless-main"
+          uid="{4402D144-4362-41EB-844E-A4B462719333}" />
+        <r
+          id="{FF82356C-0008-4A2B-AA96-3EF9BEB69EF5}"
+          ph="/headless-main"
+          uid="{CE38BF85-A29C-467A-9AD5-16C6EC919371}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T185126Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9667383-9fc2-4463-81a1-e658ed137bc7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tpanchal@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T202208Z
