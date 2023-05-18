@@ -1,7 +1,6 @@
 import React from 'react';
 import { LinkField, Field, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Default } from '../../src/components/Promo';
-import { ImageField, Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
   PromoIcon: ImageField;
