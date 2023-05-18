@@ -1,6 +1,6 @@
 import React from 'react';
 import { LinkField, Field, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
-import { Default } from './Promo';
+// import { Default } from './Promo';
 import {
     ImageField,
     Field,
