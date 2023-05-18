@@ -1,0 +1,33 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "BasicSiteA.XmCloud",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/Project/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "placeholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Project/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            },
+            {
+                "name": "Renderings",
+                "path": "/sitecore/layout/Renderings/Project/BasicSiteA",
+                "allowedPushOperations":"CreateAndUpdate"
+            }
+        ]
+    }
+}
