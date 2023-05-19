@@ -19,7 +19,7 @@ Languages:
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: |
-        <h3>Latest Streetwear</h3>
+        <h3>0001 Latest Streetwear</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
@@ -31,14 +31,14 @@ Languages:
         sitecore\tpanchal@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "69624f57-c4f3-482c-a9b1-841e6aa1b1f7"
+      Value: "c2d0553b-2716-4fa8-b590-bf138da8a6f9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\tpanchal@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230515T060816Z
+      Value: 20230518T100149Z
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
